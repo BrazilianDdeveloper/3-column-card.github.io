@@ -30,7 +30,7 @@ body {
     flex-direction: column;
     margin: 2rem 0;
     width: 88vw;
-    background-color: var(--very-light-gray)
+    background-color: var(--very-light-gray);
     border-radius: 15px;
 }
 
